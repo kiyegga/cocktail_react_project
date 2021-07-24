@@ -1,0 +1,6 @@
+#dependencies
+/node_module
+
+#build
+/build
+node_modules
